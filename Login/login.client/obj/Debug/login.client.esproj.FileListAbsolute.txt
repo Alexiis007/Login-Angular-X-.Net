@@ -1,0 +1,2 @@
+C:\Users\cjuarez\Desktop\Angular x .Net\Login\login.client\obj\Debug\login.client.esproj.CoreCompileInputs.cache
+D:\-------Cosas-------\Programas\NET\Angular x .Net\Login\login.client\obj\Debug\login.client.esproj.CoreCompileInputs.cache

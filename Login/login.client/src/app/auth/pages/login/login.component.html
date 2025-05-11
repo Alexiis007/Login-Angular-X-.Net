@@ -1,0 +1,8 @@
+<div>
+    <h1>Inicio de sesion</h1>
+    <form [formGroup]="myForm">
+        <input formControlName="email" type="email" placeholder="Correo electronico" name="email" id="email" required>
+        <input formControlName="password" type="password" placeholder="Contraseña" name="password" id="password" required>
+        <button (submit)="submit()">Iniciar Sesion</button>
+    </form>
+</div>

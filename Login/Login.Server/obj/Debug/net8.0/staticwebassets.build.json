@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Tg6ZCnOmERKmt0C8GQbQ6Ggjx90ltkbkl24l6j3d7Jk=",
+  "Source": "Login.Server",
+  "BasePath": "_content/Login.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\-------Cosas-------\\Programas\\NET\\Angular x .Net\\Login\\login.client\\login.client.esproj",
+      "Version": 2,
+      "Source": "login.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
