@@ -1,102 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|c:\\users\\cjuarez\\desktop\\angular x .net\\login\\login.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|solutionrelative:login.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|c:\\users\\cjuarez\\desktop\\angular x .net\\login\\login.server\\controllers\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|solutionrelative:login.server\\controllers\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|c:\\users\\cjuarez\\desktop\\angular x .net\\login\\login.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|solutionrelative:login.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|c:\\users\\cjuarez\\desktop\\angular x .net\\login\\login.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|solutionrelative:login.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|c:\\users\\cjuarez\\desktop\\angular x .net\\login\\login.server\\models\\dbcusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F9DF7A4-6961-4C63-95AB-EE803E6CA5C1}|Login.Server\\Login.Server.csproj|solutionrelative:login.server\\models\\dbcusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\Program.cs",
-              "RelativeDocumentMoniker": "Login.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\Program.cs",
-              "RelativeToolTip": "Login.Server\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T23:28:18.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\Controllers\\Usuarios.cs",
-              "RelativeDocumentMoniker": "Login.Server\\Controllers\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\Controllers\\Usuarios.cs",
-              "RelativeToolTip": "Login.Server\\Controllers\\Usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T23:01:33.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Login.Server\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\Models\\Usuario.cs",
-              "RelativeToolTip": "Login.Server\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T22:54:29.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DBCUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\Models\\DBCUsuarios.cs",
-              "RelativeDocumentMoniker": "Login.Server\\Models\\DBCUsuarios.cs",
-              "ToolTip": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\Models\\DBCUsuarios.cs",
-              "RelativeToolTip": "Login.Server\\Models\\DBCUsuarios.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T22:54:12.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "Login.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\cjuarez\\Desktop\\Angular x .Net\\Login\\Login.Server\\appsettings.json",
-              "RelativeToolTip": "Login.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-08T21:45:01.578Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

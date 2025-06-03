@@ -1,4 +1,7 @@
-﻿using Login.Server.Models;
+﻿using Login.Server.auth;
+using Login.Server.Models;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,15 +10,20 @@ using Microsoft.AspNetCore.Mvc;
 namespace Login.Server.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     [ApiController]
     public class Usuarios : ControllerBase
     {
         //Se inyecta el contexto DBCUsuarios a el controlador Usuarios
         private readonly DBCUsuarios _context;
 
-        public Usuarios(DBCUsuarios context)
+        //Inyectamos la clase con acceso a las funciones de autenticacion
+        private readonly Configuration _configuration;  
+
+        public Usuarios(DBCUsuarios context, Configuration configuration)
         {
             _context = context;
+            _configuration = configuration;
         }
 
         // GET: api/<Usuarios>

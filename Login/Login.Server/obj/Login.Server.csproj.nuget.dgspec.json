@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\-------Cosas-------\\Programas\\NET\\Angular x .Net\\Login\\Login.Server\\Login.Server.csproj": {}
+    "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\Login.Server.csproj": {}
   },
   "projects": {
-    "D:\\-------Cosas-------\\Programas\\NET\\Angular x .Net\\Login\\Login.Server\\Login.Server.csproj": {
+    "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\Login.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\-------Cosas-------\\Programas\\NET\\Angular x .Net\\Login\\Login.Server\\Login.Server.csproj",
+        "projectUniqueName": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\Login.Server.csproj",
         "projectName": "Login.Server",
-        "projectPath": "D:\\-------Cosas-------\\Programas\\NET\\Angular x .Net\\Login\\Login.Server\\Login.Server.csproj",
-        "packagesPath": "C:\\Users\\Alexsis007\\.nuget\\packages\\",
-        "outputPath": "D:\\-------Cosas-------\\Programas\\NET\\Angular x .Net\\Login\\Login.Server\\obj\\",
+        "projectPath": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\Login.Server.csproj",
+        "packagesPath": "C:\\Users\\cjuarez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alexsis007\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cjuarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,14 +44,18 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
             "Microsoft.AspNetCore.SpaProxy": {
               "target": "Package",
               "version": "[8.*-*, )"
@@ -88,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
