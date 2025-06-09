@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "Hash": "LiCwR+GuBEa+up8G5pCGBRKfZc98oEV+RmGHJH4kwhg=",
+  "Hash": "8yPiSaK1Obqw1lARZSQR8OhY5ZIxCE7+1LoaMmFZ/u8=",
   "Source": "Login.Server",
   "BasePath": "_content/Login.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\login.client\\login.client.esproj",
+      "Identity": "C:\\Users\\Alexsis007\\Desktop\\Angular x.Netk\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\login.client\\login.client.esproj",
       "Version": 2,
       "Source": "login.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
   "DiscoveryPatterns": [],

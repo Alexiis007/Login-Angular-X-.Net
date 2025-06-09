@@ -79,7 +79,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Microsoft.AspNetCore.SpaProxy/8.0.15": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.16": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -1740,10 +1740,10 @@
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/8.0.15": {
-      "sha512": "Qni1g9jjcyiwkwB/+A9tf4lTJLUTniy/ktxQn+/9fxIjt8/Aqor+Cc5GThOwnz9WlN9L9m43q5WQ7zSx8u+UEA==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.16": {
+      "sha512": "epkhyVdorPlnTz3k839y9UkdaWYLA2I8NCZXCw9AbO4tSnpGrn7ufLv/oy5sl/gLCLHrEkhJX+VmiVN6im427w==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.15",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.16",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1751,7 +1751,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.8.0.15.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.8.0.16.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -4908,28 +4908,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cjuarez\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Alexsis007\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\Login.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Alexsis007\\Desktop\\Angular x.Netk\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\Login.Server.csproj",
       "projectName": "Login.Server",
-      "projectPath": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\Login.Server.csproj",
-      "packagesPath": "C:\\Users\\cjuarez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\obj\\",
+      "projectPath": "C:\\Users\\Alexsis007\\Desktop\\Angular x.Netk\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\Login.Server.csproj",
+      "packagesPath": "C:\\Users\\Alexsis007\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alexsis007\\Desktop\\Angular x.Netk\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cjuarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alexsis007\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4952,9 +4949,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5002,7 +4999,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

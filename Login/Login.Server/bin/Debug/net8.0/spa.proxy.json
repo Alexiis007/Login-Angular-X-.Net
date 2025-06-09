@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:55250",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\cjuarez\\Desktop\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\..\\login.client",
+"WorkingDirectory": "C:\\Users\\Alexsis007\\Desktop\\Angular x.Netk\\Angular x.Netk\\Login-Angular-X-.Net\\Login\\Login.Server\\..\\login.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
